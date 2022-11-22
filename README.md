@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fay-rush (not to be confused with @fayrush, which is my personal account)
-- 🌱 I’m currently learning Javascript, Java, and Python
+- 🌱 I’m currently learning Typescript, Javascript, Java, and Python
 - 🎓 I currently attend Carleton University in Ottawa, ON
 
 <!---
