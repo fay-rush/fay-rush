@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fay</h1>
-- 🌱 I’m currently learning **Ruby on Rails**
 
 - 📫 How to reach me **fayrush@duck.com**
 
-- 📄 Know about my experiences [fay.land](fay.land)
+- 📄 Check out my CV! [fay.land](fay.land)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
