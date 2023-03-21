@@ -1,5 +1,5 @@
 # Hi, I'm Fay 🐝
-- 📫 How to reach me **fayrush@duck.com**
+- 📫 How to reach me fayrush@duck.com
 
 - 📄 Check out my CV! [fay.land](fay.land)
 
