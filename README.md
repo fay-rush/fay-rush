@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fay</h1>
+<h1>Hi 👋, I'm Fay</h1>
 - 📫 How to reach me **fayrush@duck.com**
 
 - 📄 Check out my CV! [fay.land](fay.land)
